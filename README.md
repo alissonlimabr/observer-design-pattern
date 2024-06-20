@@ -1,1 +1,1 @@
-# observer-design-pattern
+# Atividade Hands-On com Observer do curso "Desenvolvimento Ágil com Padrões de Projeto - ITA".
